@@ -1,15 +1,9 @@
 ![image](123\a (1).jpg)
-.
 ![image](123\a (2).jpg)
-.
 ![image](123\a (3).jpg)
-.
 ![image](123\a (4).jpg)
-.
 ![image](123\a (5).jpg)
-.
 ![image](123\a (6).jpg)
-.
 ![image](123\a (7).jpg)
 ![image](123\a (8).jpg)
 ![image](123\a (9).jpg)
